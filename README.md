@@ -11,3 +11,8 @@ White sec é programador, pentester e hacker ético.</h2>
 <h2>Facebook: https://www.facebook.com/whitesecofficial</h2>
 <h2>Email: whitesec.contato@gmail.com</h2>
 <h2>Discord: white sec#3768</h2>
+
+<h4>Instalando o laboratório:</h4>
+<h4>Abra o "Path", "/config/database_creation.php"</h4>
+
+<h3>O laboratório serve pra diversas plataformas tanto Linux quanto Windows.</h3>
