@@ -1,7 +1,4 @@
 <img src="https://github.com/whitesec/Konoha-Lab/blob/master/Konoha-Lab/img/banner.png" height="110" />
-<h1>Konoha Lab</h1>
-
-<hr color="black">
 
 <h2>★ Sobre o Laboratório:
 Konoha-Lab é um laboratório de Pentest desenvolvido apenas em PHP, HTML e CSS, laboratório de Pentest com diversas falhas WEB, nesse laboratório contém a falha de "lFI", "LFD", "Brute-Force", "Command-Injection" e "SQL Injection".</h2>
