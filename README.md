@@ -6,8 +6,8 @@ Konoha-Lab é um laboratório de Pentest desenvolvido apenas em PHP, HTML e CSS,
 
 <h2>★ Sobre o criador:
 White sec é programador, pentester e hacker ético.</h2>
-__________________________________________________________________________________________________________________________________________
-<h4>Contato: 
-Facebook: https://www.facebook.com/whitesecofficial
-Email: whitesec.contato@gmail.com
-Discord: white sec#3768</h4>
+
+<h2>★ Contato profissional:</h2>
+<h2>Facebook: https://www.facebook.com/whitesecofficial</h2>
+<h2>Email: whitesec.contato@gmail.com</h2>
+<h2>Discord: white sec#3768</h2>
