@@ -11,7 +11,7 @@ White sec é programador, pentester e hacker ético.</h2>
 <hr color="black">
 
 <h2>★ Contato profissional:</h2>
-<h2>Facebook: https://www.facebook.com/whitesecofficial</h2>
+<h2>Facebook: https://www.facebook.com/whitesecure/</h2>
 <h2>Email: whitesec.contato@gmail.com</h2>
 <h2>Discord: white sec#3768</h2>
 
